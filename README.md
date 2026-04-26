@@ -13,8 +13,7 @@ By: @Tovar-D3v
 1. Clona el repositorio:
 
 ```bash
-git clone <url-del-repositorio-frontend>
-cd <nombre-carpeta-frontend>
+git clone https://github.com/Tovar-D3v/convertidorJsonFrontend.git
 ```
 
 2. Instala las dependencias:

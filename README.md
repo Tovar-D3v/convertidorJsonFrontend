@@ -37,3 +37,10 @@ npm run dev
 ```
 
 La aplicación se abrirá normalmente en http://localhost:5173/
+
+<table>
+	<tr>
+		<td><img src="image.png" alt="vista principal"></td>
+		<td><img src="image-1.png" alt="alt text"></td>
+	</tr>
+</table>
